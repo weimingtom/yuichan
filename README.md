@@ -6,6 +6,7 @@ Yuichan is a Java port of guichan, still under development now. It's also the na
 Yuichan = ゆいちゃん = Yes, it's guichan for Java.  
 
 History:  
+2015-02-14: Porting jsonguichan. Happy Valentine's Day, Yuichan!    
 2014-12-25: Porting sdlwidgets.  
 2014-12-09: Porting sdlaction.  
 2014-12-07: Running helloworld successfully, ported from sdlhelloworld.  
