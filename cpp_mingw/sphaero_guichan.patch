@@ -1,0 +1,64 @@
+diff -urN guichan-0.8.2/src/widget.cpp guichan-master/src/widget.cpp
+--- guichan-0.8.2/src/widget.cpp	2009-09-04 04:35:02 +0800
++++ guichan-master/src/widget.cpp	2015-01-18 05:55:36 +0800
+@@ -269,7 +269,7 @@
+     {
+         if (mFocusHandler == NULL)
+         {
+-            throw GCN_EXCEPTION("No focushandler set (did you add the widget to the gui?).");
++            throw GCN_EXCEPTION("No focushandler set (requestFocus: did you add the widget to the gui?).");
+         }
+ 
+         if (isFocusable())
+@@ -558,7 +558,7 @@
+     {
+         if (mFocusHandler == NULL)
+         {
+-            throw GCN_EXCEPTION("No focushandler set (did you add the widget to the gui?).");
++            throw GCN_EXCEPTION("No focushandler set (requestModalFocus: did you add the widget to the gui?).");
+         }
+ 
+         mFocusHandler->requestModalFocus(this);
+@@ -568,7 +568,7 @@
+     {
+         if (mFocusHandler == NULL)
+         {
+-            throw GCN_EXCEPTION("No focushandler set (did you add the widget to the gui?).");
++            throw GCN_EXCEPTION("No focushandler set (requestModalMouseInputFocus: did you add the widget to the gui?).");
+         }
+ 
+         mFocusHandler->requestModalMouseInputFocus(this);
+@@ -598,7 +598,8 @@
+     {
+         if (mFocusHandler == NULL)
+         {
+-            throw GCN_EXCEPTION("No focushandler set (did you add the widget to the gui?).");
++            return false;
++            //throw GCN_EXCEPTION("No focushandler set (isModalFocused: did you add the widget to the gui?).");
+         }
+ 
+         if (getParent() != NULL)
+@@ -614,7 +615,8 @@
+     {
+         if (mFocusHandler == NULL)
+         {
+-            throw GCN_EXCEPTION("No focushandler set (did you add the widget to the gui?).");
++            return false;
++            //throw GCN_EXCEPTION("No focushandler set (isModalMouseInputFocused: did you add the widget to the gui?).");
+         }
+ 
+         if (getParent() != NULL)
+diff -urN guichan-0.8.2/src/widgets/tabbedarea.cpp guichan-master/src/widgets/tabbedarea.cpp
+--- guichan-0.8.2/src/widgets/tabbedarea.cpp	2009-09-04 04:35:02 +0800
++++ guichan-master/src/widgets/tabbedarea.cpp	2015-01-18 05:55:36 +0800
+@@ -317,6 +317,10 @@
+ 
+     void TabbedArea::logic()
+     {
++        for (unsigned int i = 0; i < mTabs.size(); i++)
++        {
++                  mTabs[i].second->logic();
++        }
+     }
+ 
+     void TabbedArea::adjustSize()
