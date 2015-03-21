@@ -5,7 +5,8 @@ Yuichan is a Java port of guichan, still under development now. It's also the na
 
 Yuichan = ゆいちゃん = Yes, it's guichan for Java.  
 
-## History:  
+## History:   
+2015-03-21: Bugs fix (tab key, redraw lock, textbox).   
 2015-03-14: Porting gce-guichan example, not completely (Bugs:crashing when typing in TextBox).   
 2015-02-16: Porting xmlguichan.  
 2015-02-14: Porting jsonguichan. Happy Valentine's Day, Yuichan!    
