@@ -6,6 +6,7 @@ Yuichan is a Java port of guichan, still under development now. It's also the na
 Yuichan = ゆいちゃん = Yes, it's guichan for Java.  
 
 ## History:   
+2015-04-17: Porting gce-guichan editor.    
 2015-03-21: Bugs fix (tab key, redraw lock, textbox).   
 2015-03-14: Porting gce-guichan example, not completely (Bugs:crashing when typing in TextBox).   
 2015-02-16: Porting xmlguichan.  
@@ -24,4 +25,8 @@ https://code.google.com/p/jsonguichan/
 https://code.google.com/p/xmlguichan/  
 * gce-guichan (GCe GuiChan Editor)  
 http://sourceforge.net/projects/gce/  
+* JSON-java  
+https://github.com/douglascrockford/JSON-java  
+* dom4j 1.6.1  
+http://sourceforge.net/projects/dom4j/files/dom4j/1.6.1/  
 
