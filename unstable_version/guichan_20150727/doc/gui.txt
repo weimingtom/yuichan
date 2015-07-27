@@ -1,0 +1,77 @@
+* http://www.reddit.com/r/gamedev/comments/2hrwfi/anyone_know_a_flexible_gui_library_for_games_in_c/
+(1) Guichan
+https://gitorious.org/guichan
+(2) GWEN
+https://github.com/garrynewman/GWEN
+(3) ImGui
+https://github.com/ocornut/imgui
+(4) OtterUI
+https://github.com/Twolewis/OtterUI
+(5) Turbo Badger
+https://github.com/fruxo/turbobadger
+(6) GLIMGUI 
+https://bitbucket.org/MartinFelis/glimgui
+http://www.fysx.org/2014/03/26/glimgui-released/
+(7) MyGUI
+http://mygui.info/
+(8) oui-blendish
+https://bitbucket.org/duangle/oui-blendish/src
+(9) libRocket
+http://librocket.com/
+https://github.com/libRocket/libRocket
+http://blog.ch-wind.com/librocket%E5%9C%A8cocos2d-x%E4%B8%AD%E4%BD%BF%E7%94%A8/
+(10) GamePlay
+https://github.com/gameplay3d/GamePlay/wiki/User-Interface
+(11) SFGUI
+http://sfgui.sfml-dev.de/
+(12) TGui
+https://tgui.eu/
+https://github.com/texus/TGUI
+(13) Cocos Studio
+http://www.cocos2d-x.org/wiki/Cocos_Studio
+(14) Torque 2D
+https://github.com/GarageGames/Torque2D
+(15) Agar GUI
+http://libagar.org/
+(16) ImGui
+https://github.com/ocornut/imgui
+
+
+* http://www.fysx.org/2010/09/13/quest-for-a-gui/
+(1) CEGUI
+http://cegui.org.uk/
+(2) ClanLib
+http://clanlib.org/
+(3) GLAM
+http://glam.sourceforge.net/
+(4) GLUI
+http://www.cs.unc.edu/~rademach/glui/
+(5) libUFO
+http://libufo.sourceforge.net/
+(6) GLGooey
+http://glgooey.sourceforge.net/
+(7) Scaleform
+http://gameware.autodesk.com/scaleform
+(8) awesomium
+http://www.awesomium.com/
+(9) imgui
+http://silverspaceship.com/inner/imgui/
+(10) Sol on Immediate Mode GUIs (IMGUI)
+http://sol.gfxile.net/imgui/ch01.html
+
+* http://www.cppblog.com/HappySky2046/archive/2012/06/03/177336.aspx
+(1) DinoUI
+http://www.dinoui.com/chs/Index.php
+(3) Ogre SDKTray
+???
+(2) QuickGUI
+http://www.ogre3d.org/tikiwiki/QuickGUI
+(3) Hikari
+http://www.ogre3d.org/tikiwiki/Hikari
+(4) ogreSwf/vektrix
+???
+(5) Menus Master
+https://mastermenus.com/
+(6) GLO
+???
+

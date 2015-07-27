@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ascii" ?>
+<GUI>
+    <widget type="gcn::Container" x="0" y="0" width="800" height="600" bordersize="0" basecolour="808090ff" backgroundcolour="ffffffff" foregroundcolour="000000ff" selectioncolour="c3d9ffff" actioneventid="" widgetid="">
+        <widget type="gcn::Icon" x="121" y="225" width="479" height="172" bordersize="0" basecolour="808090ff" backgroundcolour="ffffffff" foregroundcolour="000000ff" selectioncolour="c3d9ffff" actioneventid="" widgetid="" imageFileName="images/logo.png" />
+    </widget>
+</GUI>
