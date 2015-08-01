@@ -1,0 +1,108 @@
+{
+	"container": {
+		"name": "top",
+		"width": 640,
+		"height": 480,
+		
+		"widgets": [
+			{
+				"label": {
+					"name": "logo_text",
+					"caption": "Simple example of using JsonGui"
+				}
+			},
+
+			{ 
+				"button": {
+					"x": 5, 
+					"y": 20,
+					"name": "exit",
+					"caption": "Please click to exit"
+				}
+			},
+			
+			{ 
+				"icon": {
+					"x": 250, 
+					"y": 160,
+					"name": "logo",
+					"image": "images/darkbitslogo_by_haiko.bmp"
+				}
+			},
+			
+			{ 
+				"dropdown": {
+					"x": 100, 
+					"y": 100,
+					"name": "dp",
+					"items": [
+						"Item 1",
+						"Item 2",
+						"Item 3"
+					]
+				}
+			},
+			
+			{ 
+				"listbox": {
+					"x": 200, 
+					"y": 100,
+					"name": "lb",
+					"items": [
+							"Item 1",
+							"Item 2",
+							"Item 3"
+					]
+				}
+			},
+			
+			{ 
+				"textfield": {
+					"x": 5, 
+					"y": 300,
+					"name": "tf",
+					"text": "simple text"
+				}
+			},
+
+			{
+				"scrollarea": {
+					"name": "sc",
+					"x": 300,
+					"y": 5,
+					"width": 100,
+					"height": 100,
+					
+					"widgets": [
+						{ 
+							"textbox": {
+								"name": "tb",
+								"text": "simple textbox\nddjdjd"
+							}
+						}
+					]
+				}
+			},
+			
+			{
+				"window": {
+					"name": "wnd",
+					"x": 100,
+					"y": 200,
+					"caption": "Drag me!",
+					
+					"widgets": [
+						{ 
+							"icon": {
+								"x": 0, 
+								"y": 0,
+								"name": "logo_in_wnd",
+								"image": "images/darkbitslogo_by_haiko.bmp"
+							}
+						}
+					]
+				}
+			}
+		]
+	}
+}

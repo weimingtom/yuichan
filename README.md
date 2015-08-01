@@ -6,6 +6,7 @@ Yuichan is a Java port of guichan, still under development now. It's also the na
 Yuichan = ゆいちゃん = Yes, it's guichan for Java.  
 
 ## History:  
+2015-08-02: Porting FPS demo (Mod version, no OpenGL, fullscreen and resolution changing) and imagefont collections.    
 2015-07-27: Throw parent and focus self exception.    
 2015-05-17: Bugs fix (exit using ESC key).   
 2015-04-17: Porting gce-guichan editor.    
@@ -21,6 +22,8 @@ Yuichan = ゆいちゃん = Yes, it's guichan for Java.
 ## References:  
 * guichan 0.8.2  
 https://code.google.com/p/guichan/  
+* guichan oldsite  
+http://guichan.sourceforge.net/oldsite/  
 * jsonguichan  
 https://code.google.com/p/jsonguichan/  
 * xmlguichan  
