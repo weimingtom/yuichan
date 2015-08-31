@@ -49,12 +49,12 @@ https://github.com/zear/sdljava
 * More demos  
 
 ## SnapShot:  
-![Snapshot](/snapshot/widgets.png)  
+![Snapshot](/snapshot/widgets.jpg)  
 
-![Snapshot](/snapshot/xmlgui.png)  
+![Snapshot](/snapshot/xmlgui.jpg)  
 
-![Snapshot](/snapshot/gce.png)  
+![Snapshot](/snapshot/gce.jpg)  
 
-![Snapshot](/snapshot/fps.png)  
+![Snapshot](/snapshot/fps.jpg)  
 
-![Snapshot](/snapshot/ff.png)  
+![Snapshot](/snapshot/ff.jpg)  
