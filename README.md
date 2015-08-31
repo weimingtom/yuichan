@@ -48,7 +48,7 @@ https://github.com/zear/sdljava
 * xml/json parser porting  
 * More demos  
 
-## SnapShot:  
+## Snapshot:  
 ![Snapshot](/snapshot/widgets.jpg)  
 
 ![Snapshot](/snapshot/xmlgui.jpg)  
