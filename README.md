@@ -6,6 +6,7 @@ Yuichan is a Java port of guichan, still under development now. It's also the na
 Yuichan = ゆいちゃん = Yes, it's guichan for Java.  
 
 ## History:  
+2015-08-31: Porting FF demo.    
 2015-08-02: Porting FPS demo (Mod version, no OpenGL, fullscreen and resolution changing) and imagefont collections.    
 2015-07-27: Throw parent and focus self exception.    
 2015-05-17: Bugs fix (exit using ESC key).   
@@ -34,4 +35,26 @@ http://sourceforge.net/projects/gce/
 https://github.com/douglascrockford/JSON-java  
 * dom4j 1.6.1  
 http://sourceforge.net/projects/dom4j/files/dom4j/1.6.1/  
+* sdljava (sourceforge)  
+http://sdljava.sourceforge.net  
+* sdljava (sourceforge files)  
+http://sourceforge.net/projects/sdljava/files/  
+* zear/sdljava  
+https://github.com/zear/sdljava  
 
+## TODO:  
+* Gui::destroy()  
+* destroy() method calling  
+* xml/json parser porting  
+* More demos  
+
+## SnapShot:  
+![Snapshot](/snapshot/widgets.png)  
+
+![Snapshot](/snapshot/xmlgui.png)  
+
+![Snapshot](/snapshot/gce.png)  
+
+![Snapshot](/snapshot/fps.png)  
+
+![Snapshot](/snapshot/ff.png)  
