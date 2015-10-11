@@ -41,6 +41,12 @@ http://sdljava.sourceforge.net
 http://sourceforge.net/projects/sdljava/files/  
 * zear/sdljava  
 https://github.com/zear/sdljava  
+* fifechan  
+https://github.com/fifengine/fifechan  
+* fifechan-demos  
+https://github.com/fifengine/fifechan-demos  
+* guichan(mainline)  
+https://github.com/wheybags/guichan  
 
 ## TODO:  
 * Gui::destroy()  
