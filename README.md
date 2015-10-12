@@ -45,6 +45,8 @@ https://github.com/zear/sdljava
 https://github.com/fifengine/fifechan  
 * fifechan-demos  
 https://github.com/fifengine/fifechan-demos  
+* Flexible Isometric Free Engine  
+http://sourceforge.net/projects/fife/  
 * guichan(mainline)  
 https://github.com/wheybags/guichan  
 
