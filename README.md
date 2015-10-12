@@ -47,6 +47,8 @@ https://github.com/fifengine/fifechan
 https://github.com/fifengine/fifechan-demos  
 * Flexible Isometric Free Engine  
 http://sourceforge.net/projects/fife/  
+* pychan(iteration-zero)  
+https://code.google.com/p/iteration-zero/  
 * guichan(mainline)  
 https://github.com/wheybags/guichan  
 
