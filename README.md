@@ -23,34 +23,54 @@ Yuichan = ゆいちゃん = Yes, it's guichan for Java.
 ## References:  
 * guichan 0.8.2  
 https://code.google.com/p/guichan/  
+
 * guichan oldsite  
 http://guichan.sourceforge.net/oldsite/  
+
 * jsonguichan  
 https://code.google.com/p/jsonguichan/  
+
 * xmlguichan  
 https://code.google.com/p/xmlguichan/  
+
 * gce-guichan (GCe GuiChan Editor)  
 http://sourceforge.net/projects/gce/  
+
 * JSON-java  
 https://github.com/douglascrockford/JSON-java  
+
 * dom4j 1.6.1  
 http://sourceforge.net/projects/dom4j/files/dom4j/1.6.1/  
+
+## References (planning):  
 * sdljava (sourceforge)  
 http://sdljava.sourceforge.net  
+
 * sdljava (sourceforge files)  
 http://sourceforge.net/projects/sdljava/files/  
+
 * zear/sdljava  
 https://github.com/zear/sdljava  
+
 * fifechan  
 https://github.com/fifengine/fifechan  
+
 * fifechan-demos  
 https://github.com/fifengine/fifechan-demos  
+
 * Flexible Isometric Free Engine  
 http://sourceforge.net/projects/fife/  
+
 * pychan(iteration-zero)  
 https://code.google.com/p/iteration-zero/  
+
 * guichan(mainline)  
 https://github.com/wheybags/guichan  
+
+* Fundamental-2D-Game-Programming-With-Java   
+https://github.com/TimothyWrightSoftware/Fundamental-2D-Game-Programming-With-Java  
+http://www.indiegameprogramming.com/new_book_information.php  
+http://www.ptpress.com.cn/Book.aspx?id=41377  
 
 ## TODO:  
 * Gui::destroy()  
