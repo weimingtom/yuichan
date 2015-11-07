@@ -78,7 +78,7 @@ http://www.ptpress.com.cn/Book.aspx?id=41377
 * xml/json parser porting  
 * More demos  
 
-## Snapshot:  
+## Snapshot (screenshot) :  
 ![Snapshot](/snapshot/widgets.jpg)  
 
 ![Snapshot](/snapshot/xmlgui.jpg)  
