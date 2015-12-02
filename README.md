@@ -72,6 +72,9 @@ https://github.com/TimothyWrightSoftware/Fundamental-2D-Game-Programming-With-Ja
 http://www.indiegameprogramming.com/new_book_information.php  
 http://www.ptpress.com.cn/Book.aspx?id=41377  
 
+* qrux/xwing  
+https://github.com/qrux/xwing  
+
 ## TODO:  
 * Gui::destroy()  
 * destroy() method calling  
