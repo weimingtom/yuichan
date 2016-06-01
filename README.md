@@ -75,6 +75,9 @@ http://www.ptpress.com.cn/Book.aspx?id=41377
 * qrux/xwing  
 https://github.com/qrux/xwing  
 
+* asmodehn/sdlut  
+https://github.com/asmodehn/sdlut  
+
 ## TODO:  
 * Gui::destroy()  
 * destroy() method calling  
